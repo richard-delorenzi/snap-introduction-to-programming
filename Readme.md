@@ -1,6 +1,6 @@
 # Here is a set of programming tutorials.
 
-* Do each task. 
+Do each of the tasks below, in order. 
 * Top-tip: Do one step at a time, and test.
 * When done attach an image of your code to the classroom.
 
