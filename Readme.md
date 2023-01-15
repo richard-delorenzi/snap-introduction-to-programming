@@ -3,7 +3,9 @@
 Do each of the tasks below, in order.
 
 * Top-tip: Do one step at a time, and test.
-* When done attach an image of your code to the classroom. Use the script-pic tool: right click ![Image showing how to get an image of a script](./script-pic.png "Script pic tool")
+* When done attach an image of your code to the classroom.
+  * Use the script-pic tool: right click ![Image showing how to get an image of a script](./script-pic.png "Script pic tool")
+  * Then in the class room choose upload 
 
 <hr/>
 
