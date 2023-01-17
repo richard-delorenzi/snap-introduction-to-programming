@@ -1,4 +1,4 @@
-# Here is a set of programming tutorials.
+# Programming tutorials.
 
 Do each of the tasks below, in order.
 
