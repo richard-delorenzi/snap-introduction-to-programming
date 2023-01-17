@@ -8,6 +8,7 @@ Do each of the tasks below, in order.
   * Then in the classroom choose upload 
 
 <hr/>
+<base target="_blank"/>
 
 1. [One thing after another: Sequences](https://snap.berkeley.edu/snap/snap.html#present:Username=mr%20d&ProjectName=Sequences%20%e2%80%94%20shapes&editMode&noRun){:target="_blank"}
 1. [Let's do it again: Iteration](https://snap.berkeley.edu/snap/snap.html#present:Username=mr%20d&ProjectName=Iteration%20%e2%80%94%20shapes&editMode&noRun)
