@@ -17,3 +17,4 @@ Do each of the tasks below, in order.
 1. [Improve your score: Variables and events](https://snap.berkeley.edu/snap/snap.html#present:Username=mr%20d&ProjectName=variables%20%e2%80%94%20event&editMode&noRun)
 1. [Text & Variables](https://snap.berkeley.edu/snap/snap.html#present:Username=mr%20d&ProjectName=variables%20%e2%80%94%20text&editMode&noRun)
 1. [Define (procedures) — Drawing](https://snap.berkeley.edu/snap/snap.html#present:Username=mr%20d&ProjectName=define%20%28procedures%29%20%e2%80%94%20with%20drawing&editMode&noRun)
+1. [Define (procedures with parameters) — Drawing](https://snap.berkeley.edu/snap/snap.html#present:Username=mr%20d&ProjectName=define%20%28procedure%20parameters%29%20%e2%80%94%20with%20drawing&editMode&noRun)
