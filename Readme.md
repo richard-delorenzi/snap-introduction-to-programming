@@ -18,3 +18,7 @@ Do each of the tasks below, in order.
 1. [Text & Variables](https://snap.berkeley.edu/snap/snap.html#present:Username=mr%20d&ProjectName=variables%20%e2%80%94%20text&editMode&noRun)
 1. [Define (procedures) — Drawing](https://snap.berkeley.edu/snap/snap.html#present:Username=mr%20d&ProjectName=define%20%28procedures%29%20%e2%80%94%20with%20drawing&editMode&noRun)
 1. [Define (procedures with parameters) — Drawing](https://snap.berkeley.edu/snap/snap.html#present:Username=mr%20d&ProjectName=define%20%28procedure%20parameters%29%20%e2%80%94%20with%20drawing&editMode&noRun)
+1. [Count on me — count controlled iteration](
+https://snap.berkeley.edu/snap/snap.html#present:Username=mr%20d&ProjectName=counting%20iteration%20%2d%2d%20for%20i%20in&editMode&noRun)
+1. [Practice](https://snap.berkeley.edu/snap/snap.html#present:Username=mr%20d&ProjectName=practice%201&editMode&noRun)
+1. [Python from scratch](https://snap.berkeley.edu/snap/snap.html#present:Username=mr%20d&ProjectName=python%20from%20scratch&editMode&noRun)
